@@ -1,6 +1,6 @@
 {
   "uiConfig": {
-    "globalTitle_intro": "Global Intro Title",
+    "globalTitle_intro": "Thunderhorse-P8JK Water Injection Tranformer Replacement",
     "primaryColor_intro": {
       "r": 0,
       "g": 0,
@@ -8,15 +8,15 @@
       "a": 1
     },
     "secondaryColor_intro": {
-      "r": 100,
-      "g": 0,
-      "b": 0,
+      "r": 10.6,
+      "g": 13.7,
+      "b": 17.3,
       "a": 1
     },
-    "copyrightText_intro": "Copyright Doctrinis 2022",
+    "copyrightText_intro": "Copyright GWIS 2022",
     "logoFile_intro": "Logo.png",
     "logoPadding_intro": 10,
-    "globalTitle": "Global Title",
+    "globalTitle": "Thunderhorse-P8JK Water Injection Tranformer Replacement",
     "primaryColor": {
       "r": 150,
       "g": 50,
@@ -69,7 +69,7 @@
     "questionTitleFontSize": 24
   },
   "test": {
-    "name": "This is the test module",
+    "name": "Thunderhorse - THP8JK Construction Installation Training & Competency",
     "description": "Select the best answer.\nOnce you begin the test you can exit however, you will have to restart from the beginning.\nYou may go back and change answers within the test.\nAlso note that to successfully pass the test you must complete the Post-Test with a score of 80% or greater.\nThe Pre-test can be failed as it is only used to establish a baseline score.",
     "confirmationText": "To confirm your test, click on the 'Next' button in the bottom right.",
     "timeLimit": 120,
@@ -78,83 +78,72 @@
       {
         "jsonClass": "SingleChoiceQuestion",
         "name": "Q1",
-        "instructions": "What is 1+1?",
+        "instructions": "True or False: Nakika WI Pump Transformer VDN-6630 Transformer is to be replaced",
         "imageFile": "",
         "correctOption": "A",
         "options": {
-          "A": "2",
-          "B": "42",
-          "C": "3",
-          "D": "None of the above"
+          "A": "True",
+          "B": "False"
         }
       },
       {
         "jsonClass": "SingleChoiceQuestion",
         "name": "Q2",
-        "instructions": "What is the ultimate answer to life, the universe, and everything?",
+        "instructions": "True or False: There will be hot work permits required and fire protection required for this project",
         "imageFile": "",
-        "correctOption": "D",
+        "correctOption": "A",
         "options": {
-          "A": "Wombats",
-          "B": "12",
-          "C": "Nobody knows",
-          "D": "42",
-          "E": "None of the above"
-        }
-      },
-      {
-        "jsonClass": "SingleChoiceQuestion",
-        "name": "Q2",
-        "instructions": "What color is the sky?",
-        "imageFile": "",
-        "correctOption": "B",
-        "options": {
-          "A": "Red",
-          "B": "Blue",
-          "C": "Green",
-          "D": "Yellow"
-        }
-      },
-      {
-        "jsonClass": "SingleChoiceQuestion",
-        "name": "Q2",
-        "instructions": "How much wood could a woodchuck chuck if a woodchuck could chuck wood?",
-        "imageFile": "",
-        "correctOption": "C",
-        "options": {
-          "A": "5",
-          "B": "2 Cords",
-          "C": "About 700lbs"
-        }
-      },
-      {
-        "jsonClass": "SingleChoiceQuestion",
-        "name": "Q2",
-        "instructions": "What kind of stuff should be on slides?",
-        "imageFile": "",
-        "correctOption": "C",
-        "options": {
-          "A": "Children",
-          "B": "Water",
-          "C": "Important Stuff",
-          "D": "Nothing"
+          "A": "True: no work permits are reqquired for the transformer replacement",
+          "B": "False: There are required permits for the transformer replaccement and verified during work pack walk downs"
         }
       },
       {
         "jsonClass": "SingleChoiceQuestion",
         "name": "Q3",
-        "instructions": "How many fingers am I holding up?",
+        "instructions": "True or False: GWIS will be required to perform LO/TO's prior to any removal of equipment",
+        "imageFile": "",
+        "correctOption": "B",
+        "options": {
+          "A": "True: GWIS is to perform LO/TO",
+          "B": "False: BP Operations handles the proper LO/TO and GWIS confirms prior to construction activities"
+        }
+      },
+      {
+        "jsonClass": "SingleChoiceQuestion",
+        "name": "Q4",
+        "instructions": "True or False: Anyone has the right to call an ALL-STOP if safety concerns are in question",
         "imageFile": "",
         "correctOption": "A",
         "options": {
-          "A": "What fingers?",
-          "B": "There is no spoon...",
-          "C": "It's a butterfly!"
+          "A": "True: Anyone has the right to call an ALL STOP if there is a percieved safety concern",
+          "B": "False: Only GWIS Supervisors and BP Operations may call an All Stop during construction activies"
+        }
+      },
+      {
+        "jsonClass": "SingleChoiceQuestion",
+        "name": "Q5",
+        "instructions": "True or False: Positive Pressure Safety Sensors are to be put in BYPASS during Construction",
+        "imageFile": "",
+        "correctOption": "B",
+        "options": {
+          "A": "True: The Positive Pressure Safety Sensors will be put in BYPASS during removal and replacement activities",
+          "B": "False: The Positive Pressure Safety Sensors will be relocated but remain ACTIVE"
+        }
+      },
+      {
+        "jsonClass": "SingleChoiceQuestion",
+        "name": "Q6",
+        "instructions": "True or False: Glycol that is to be drained from the existing transformer must be handled with care",
+        "imageFile": "",
+        "correctOption": "A",
+        "options": {
+          "A": "True: The Glycol is a toxic chemical; any questions regarding chemicals on location can be found onsite in the MDS",
+          "B": "False: Glycol is a non-toxic chemical that is sweet in taste and safe and non-toxic for non-protected handling and the environment"
         }
       }
     ],
-    "questionCount": 4,
-    "passingScore": 0.80
+    "questionCount": 6,
+    "passingScore": 1.00
   },
   "training": {
     "jsonClass": "ImageTraining",
@@ -163,18 +152,28 @@
     "imageHeight": 650,
     "imageWidth": 1180,
     "imageFiles": [
-      "Slide1.png",
-      "Slide2.png"
+      "Slide2.PNG",
+      "Slide3.PNG",
+      "Slide4.PNG",
+      "Slide5.PNG",
+      "Slide6.PNG",
+      "Slide7.PNG",
+      "Slide8.PNG",
+      "Slide9.PNG",
+      "Slide10.PNG",
+      "Slide11.PNG",
+      "Slide12.PNG",
+      "Slide13.PNG"
     ]
   },
   "certificate": {
-    "name": "Sample Training Module",
+    "name": "Thunderhorse - THP8JK Construction Installation Training & Competency",
     "baseImageFile": "Certificate.png",
     "imageWidth": 800,
     "imageHeight": 600,
     "appDisplayScale": 0.8,
     "fontName": "Arial",
-    "emailSubject": "Sample Training Module",
+    "emailSubject": "Thunderhorse - THP8JK Construction Installation Training & Competency",
     "showExamName": true,
     "nameFontSize": 50,
     "score2FontSize": 24,
